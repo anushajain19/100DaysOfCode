@@ -9,14 +9,18 @@
 ## Goals
 
 **Competitive Programming**
-- [ ] solve competitive programming problems on spoj
 
-
+- () solve as much as competitive programming problems.
 
 **Learning Goals**
-- [ ] Learn C++ STL
-- [ ] complete Data Structures to switch in dynamic programming
-- [ ] complete my fork cpp 
+
+- () Learn C++ STL
+- () complete Data Structures to switch into dynamic programming concept
+- () To finish with java and android tutorials.
+
+**Developement**
+
+- () One Basic project of Android app developement
 
 ---
 
